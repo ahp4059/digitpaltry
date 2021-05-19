@@ -1,0 +1,2 @@
+# digitpaltry
+GitHub Pages
